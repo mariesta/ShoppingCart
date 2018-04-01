@@ -1,0 +1,115 @@
+/* Naviguation Bar */
+.logo {
+	height: 25px;
+}
+
+.navbar-white-item {
+	color: #fff !important;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.navbar-grey-link {
+	font-size: 14px;
+	font-weight: 500;
+	color: #c6c5c6 !important;
+	text-decoration: none;
+}
+
+.black-navbar {
+	background-color: #000 !important;
+}
+
+@media screen and (max-width: 900px) {
+	.ml-sm-2 {
+		margin-left: .5rem !important;
+	}
+}
+
+/* Header */
+
+.jumbotron-styling {
+	background-image: url("../images/customize-hero-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0 !important;
+}
+
+.jumbotron-image {
+	max-width: 100%;
+}
+
+/* Main Section */
+
+.main-section {
+	background-color: #f3f3e3;
+}
+
+.breadcrumbs {
+	font-size: 14px;
+	color: #c6c5c6;
+	font-weight: 500;
+}
+
+.breadcrumbs-active {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.title-text {
+	font-family: 'BioRhyme', serif;
+	font-size: 40px;
+}
+
+.select-text {
+	font-family: 'BioRhyme', serif;
+	color: #8f9e40;
+}
+
+.alert-messaging {
+	display: none;
+	color: red;
+}
+
+/* Progress Bar */
+
+.progress-striped-background {
+	background-image: url("../images/striped-progress-bar.png");
+	background-repeat: repeat-x;
+}
+
+.green-progress-bar {
+	background-color: #8f9e40 !important;
+}
+
+/* Product List */
+
+.product-thumbnail {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.border-item {
+	border: 1px solid #8f9e40;
+}
+.list-item-title {
+	font-family: 'BioRhyme', serif;
+	font-size: 20px;
+}
+.list-item-description {
+	font-size: 14px;
+}
+
+.fa-minus-circle, .fa-plus-circle {
+	color: #8f9e40;
+}
+
+.content {
+	min-height: 100vh;
+}
+
+.product-item-remove, .product-item-add {
+	cursor: pointer;
+}
+
+
