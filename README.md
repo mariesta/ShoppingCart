@@ -9,7 +9,7 @@ This project was built using the following technologies:
 
 ## Getting Started
 
-The app is hosted live at [Feature Request App Demo](http://featuredemoapp.us-west-1.elasticbeanstalk.com/) thanks to AWS Elastic Beanstalk and RDS, but if you want a local copy, continue reading.
+The app is hosted live at [Veggie Box](http://veggiebox-dev.s3-website.ca-central-1.amazonaws.com/) thanks to AWS S3, but if you want a local copy, continue reading.
 
 These instructions will give you a local repository on your machine which you can then run and use.
 
